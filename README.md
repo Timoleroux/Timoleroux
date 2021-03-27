@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Timoleroux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ......
+- 👋 Hi, I’m @Timoleroux and I'm a french teenager.
+- 👀 I’m interested in all is about new techology and programming.
+- 🌱 I’m currently learning Python, HTML, JavaScript, PHP, CSS and a little bit of Java.
+- 💞️ I’d like to become an experienced developer.
 
-- 📫 How to reach me 
-<!---
-Timoleroux/Timoleroux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can contact me with this email : timoleroux2006@gmail.com
+
